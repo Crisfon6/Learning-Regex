@@ -1,0 +1,8 @@
+^\d\d\d-\d\d\d-\d\d\d$ -> esto busca algo que tenga 3 numeros y se divida por un guion y empieze con eso indicandose con ^ y que termine asi con $ 
+
+^\d{3,5}-\d\d\d-\d\d\d$
+http[s]?://\w+\.\w+\.\w+(\?\w+=\w+)?
+
+^[a-zA-Z0-9\.]+@\w+\.\w+(\.\w+)?$
+
+\[\d\d:\d\d:\d\d\.\d\d\d\]\[[a-zA-Z\s]+\]\[Info\s+\]
